@@ -5,8 +5,8 @@
 
 This spring I will be finishing my Master's Degree in Applied Artificial Intelligence at Oslo Metropolitan University. 
 
-  📄 I just started working on my Master's Thesis this spring
-  💻 I am learning SQL on my free time
+  📄 I just started working on my Master's Thesis this spring  
+  💻 I am learning SQL on my free time  
   👩🏻‍💻 I have been learning Fullstack Web Development in 2021, using vanilla JavaScript, HTML, CSS, Express, Node JS and MongoDB
   👩🏻‍🎓 I have a Bachelor's Degree in Electronics and IT
   📺 I have a Craft Certificate as a Computer Electronics Technician
