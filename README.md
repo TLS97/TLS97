@@ -4,9 +4,8 @@
 
 Here's some info about me:
 
-  📄 I just finished my Master's Degree in Applied Artificial Intelligence at OsloMet University  
-  💻 I will be working as a Fullstack .NET developer at Experis Academy from August 2022  
-  👩🏻‍💻 I have been learning Fullstack Web Development in 2021, using vanilla JavaScript, HTML, CSS, Express, Node JS and MongoDB  
+  💻 I work as a Fullstack .NET developer at Experis Academy
+  📄 I have a Master's Degree in Applied Computer and Information Technology   
   👩🏻‍🎓 I have a Bachelor's Degree in Electronics and IT  
   📺 I have a Craft Certificate as a Computer Electronics Technician  
 
