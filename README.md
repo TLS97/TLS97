@@ -2,12 +2,12 @@
 * LinkedIn: www.linkedin.com/in/tinestorvoll
 * Email: tinelovisestorvoll@gmail.com
 
-Here's some info about me:
+## Here's some info about me:
 
-  💻 I work as a Fullstack .NET developer at Experis Academy
-  📄 I have a Master's Degree in Applied Computer and Information Technology   
-  👩🏻‍🎓 I have a Bachelor's Degree in Electronics and IT  
-  📺 I have a Craft Certificate as a Computer Electronics Technician  
+    💻 I work as a Fullstack .NET developer at Experis Academy
+    📄 I have a Master's Degree in Applied Computer and Information Technology   
+    👩🏻‍🎓 I have a Bachelor's Degree in Electronics and IT  
+    📺 I have a Craft Certificate as a Computer Electronics Technician  
 
 
 ## My most recent projects
