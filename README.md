@@ -1,5 +1,5 @@
 # Hi, I'm Tine!👋
-## I am currently looking for a job in IT, feel free to contact me!
+## I am currently looking for a job, feel free to contact me!
 * LinkedIn: www.linkedin.com/in/tinestorvoll
 * Email: tinelovisestorvoll@gmail.com
 
@@ -24,9 +24,9 @@
 ## Backend
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotnet" alt="dotnet" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="50" height="50"/>&nbsp;
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=rpg-heroes-dotnet&theme=graywhite)](https://github.com/TLS97/rpg-heroes-dotnet)
@@ -35,10 +35,10 @@
 ## Fullstack
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotnet" alt="dotnet" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="50" height="50"/>&nbsp;
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=train-ticket-application&theme=graywhite)](https://github.com/TLS97/train-ticket-application)
@@ -46,8 +46,8 @@
 ## Machine Learning
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="50" height="50"/>&nbsp;
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=face-mask-detection&theme=graywhite)](https://github.com/TLS97/face-mask-detection)
