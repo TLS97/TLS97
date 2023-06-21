@@ -1,9 +1,12 @@
 # Hi, I'm Tine!👋
+
 ## I am currently looking for a job, feel free to contact me!
+
 * LinkedIn: www.linkedin.com/in/tinestorvoll
 * Email: tinelovisestorvoll@gmail.com
 
 # My Projects
+
 ## Frontend
 
 <div>
@@ -31,6 +34,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=rpg-heroes-dotnet&theme=graywhite)](https://github.com/TLS97/rpg-heroes-dotnet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=movie-characters-asp.net-core-web-api&theme=graywhite)](https://github.com/TLS97/movie-characters-asp.net-core-web-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=Lagalt-Backend&theme=graywhite)](https://github.com/TLS97/Lagalt-Backend)
 
 ## Fullstack
 
