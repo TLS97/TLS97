@@ -8,6 +8,8 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=vanilla-javascript-komputer-store&theme=graywhite)](https://github.com/TLS97/vanilla-javascript-komputer-store)
