@@ -1,10 +1,13 @@
-# Tine-Lovise Storvoll
-## Contact Info
+# Hi, I'm Tine!👋
+## I am currently looking for a job in IT, feel free to contact me!
 * LinkedIn: www.linkedin.com/in/tinestorvoll
 * Email: tinelovisestorvoll@gmail.com
 
 # My Projects
 ## Frontend
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=vanilla-javascript-komputer-store&theme=graywhite)](https://github.com/TLS97/vanilla-javascript-komputer-store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=pokemon-angular-app&theme=graywhite)](https://github.com/TLS97/pokemon-angular-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=sign-language-translator-react-app&theme=graywhite)](https://github.com/TLS97/sign-language-translator-react-app)
