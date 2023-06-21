@@ -1,8 +1,9 @@
 # Tine-Lovise Storvoll
+## Contact Info
 * LinkedIn: www.linkedin.com/in/tinestorvoll
 * Email: tinelovisestorvoll@gmail.com
 
-# Projects
+# My Projects
 ## Frontend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=vanilla-javascript-komputer-store&theme=graywhite)](https://github.com/TLS97/vanilla-javascript-komputer-store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=pokemon-angular-app&theme=graywhite)](https://github.com/TLS97/pokemon-angular-app)
