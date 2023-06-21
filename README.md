@@ -5,9 +5,11 @@
 
 # My Projects
 ## Frontend
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=vanilla-javascript-komputer-store&theme=graywhite)](https://github.com/TLS97/vanilla-javascript-komputer-store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=pokemon-angular-app&theme=graywhite)](https://github.com/TLS97/pokemon-angular-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=sign-language-translator-react-app&theme=graywhite)](https://github.com/TLS97/sign-language-translator-react-app)
