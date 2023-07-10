@@ -20,10 +20,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=vanilla-javascript-komputer-store&theme=graywhite)](https://github.com/TLS97/vanilla-javascript-komputer-store)
+[![Readme Card](https://github-readme-stats-alpha-neon.vercel.app?username=TLS97&repo=vanilla-javascript-komputer-store&theme=graywhite)](https://github.com/TLS97/vanilla-javascript-komputer-store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=pokemon-angular-app&theme=graywhite)](https://github.com/TLS97/pokemon-angular-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TLS97&repo=sign-language-translator-react-app&theme=graywhite)](https://github.com/TLS97/sign-language-translator-react-app)
-
+https://github-readme-stats-alpha-neon.vercel.app
 ## Backend
 
 <div>
